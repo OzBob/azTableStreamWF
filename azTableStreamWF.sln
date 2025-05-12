@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamreader", "WindowsForms\streamreader.csproj", "{0B130F53-9DCD-89A3-8690-B91DCDDB2C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamlogging", "WebAPI\streamlogging.csproj", "{D0039B9D-289B-F4F8-4B76-F10F6897754A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B130F53-9DCD-89A3-8690-B91DCDDB2C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B130F53-9DCD-89A3-8690-B91DCDDB2C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B130F53-9DCD-89A3-8690-B91DCDDB2C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B130F53-9DCD-89A3-8690-B91DCDDB2C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0039B9D-289B-F4F8-4B76-F10F6897754A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0039B9D-289B-F4F8-4B76-F10F6897754A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0039B9D-289B-F4F8-4B76-F10F6897754A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0039B9D-289B-F4F8-4B76-F10F6897754A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88700B08-4859-4DF8-9665-5D6C5364FCDF}
+	EndGlobalSection
+EndGlobal
